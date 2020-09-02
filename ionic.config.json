@@ -1,5 +1,7 @@
 {
   "name": "WinTest",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
